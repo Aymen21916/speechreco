@@ -3,5 +3,4 @@ transformers
 werkzeug
 librosa
 torch
-os
 gunicorn
